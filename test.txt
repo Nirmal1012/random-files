@@ -26,3 +26,4 @@ Adding a line after forking and making a new branch for pull request
 Adding new line as per issue 10 without comment
 Adding new line as per issue with comment
 New line again
+New line issue
